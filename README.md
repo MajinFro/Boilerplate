@@ -17,3 +17,9 @@
 https://mobx.js.org/installation.html
 
 yarn add mobx mobx-persist mobx-react
+
+# Axios
+
+https://github.com/axios/axios
+
+yarn add axios
