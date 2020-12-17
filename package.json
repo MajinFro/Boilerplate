@@ -12,6 +12,7 @@
   "dependencies": {
     "@react-native-community/masked-view": "^0.1.10",
     "@react-navigation/native": "^5.8.10",
+    "axios": "^0.21.0",
     "mobx": "^6.0.4",
     "mobx-persist": "^0.4.1",
     "mobx-react": "^7.0.5",

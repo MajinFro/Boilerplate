@@ -23,3 +23,13 @@ yarn add mobx mobx-persist mobx-react
 https://github.com/axios/axios
 
 yarn add axios
+
+# After all packages installed
+
+cd ios 
+
+pod install
+
+cd ../
+
+yarn react-native run-ios
